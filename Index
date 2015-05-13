@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-echo # Top-HTML-JS-WEBGL-games >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/CosmicSurge/Top-HTML-JS-WEBGL-games.git
-git push -u origin master
 <head>
 
     <meta charset="utf-8">
